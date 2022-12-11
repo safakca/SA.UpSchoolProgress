@@ -1,0 +1,26 @@
+﻿@model DemoPortfolioProject.Models.Entities.TBLContact
+
+@{
+    ViewBag.Title = "ContactMesajGonder";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form method="post">
+    <div class=" container">
+        @Html.HiddenFor(x => x.ContactID)
+        <label>Gonderen Kişi</label>
+        @Html.TextBoxFor(x => x.NameSurname, new { @class = "form-control" })
+        <br />
+        <label>Konu</label>
+        @Html.TextBoxFor(x => x.MessageSubject, new { @class = "form-control" })
+        <br />
+        <label>Alıcı Mail</label>
+        @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+        <br />
+        <label>Mesajınız</label>
+        <textarea name="Message" rows="2" cols="5" class="form-control"></textarea>
+        <br />
+        <button class="btn btn-primary">Yanıtla</button>
+    </div>
+</form>
+

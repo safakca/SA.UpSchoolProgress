@@ -1,0 +1,16 @@
+﻿@model DemoPortfolioProject.Models.Entities.TBLServices
+@{
+    ViewBag.Title = "UpdateService";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>UpdateService</h2>
+<form method="post">
+    @Html.HiddenFor(x => x.ServicesID)
+    <label>Hizmet Başlığı</label>
+    @Html.TextBoxFor(x=>x.Title, new { @class="form-control"})
+    <br />
+    <button class="btn btn-success">Hizmeti Güncelle</button>
+</form>
+
+

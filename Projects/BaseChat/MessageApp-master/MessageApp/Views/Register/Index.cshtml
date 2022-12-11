@@ -1,0 +1,56 @@
+﻿@model AppUser
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LoginLayout.cshtml";
+}
+
+
+<div class="content align-items-center">
+    <div class="w-100 ">
+        <div class="login-left">
+            <div class="account-content">
+                <div class="login-header">
+                    <a href="#">
+                        <img src="~/template2/assets/img/logo-full.png" alt="">
+                    </a>
+                </div>
+                <div class="form-col">
+                    <div class="login-text-details">
+                        <h3>KAYIT OL</h3>
+                    </div>
+                    <form method="post">
+                        <div class="form-group">
+                            <label>ADINIZ</label>
+                            <input class="form-control form-control-lg group_formcontrol" asp-for="Name" type="text">
+                        </div>
+                        <div class="form-group">
+                            <label>SOYADINIZ</label>
+                            <input class="form-control form-control-lg group_formcontrol" asp-for="Surname" type="text">
+                        </div>
+                        <div class="form-group">
+                            <label>KULLANICI ADI</label>
+                            <input class="form-control form-control-lg group_formcontrol" asp-for="UserName" type="text">
+                        </div>
+                        <div class="form-group">
+                            <label>TELEFON NUMARASI</label>
+                            <input class="form-control form-control-lg group_formcontrol" asp-for="PhoneNumber" type="text">
+                        </div>
+                        <div class="form-group">
+                            <label>ŞİFRE</label>
+                            <input class="form-control form-control-lg group_formcontrol" asp-for="PasswordHash" type="password">
+                        </div>
+                        <div class="pt-1">
+                            <div class="text-center">
+                                <button class="btn newgroup_create btn-block d-block w-100" type="submit">HESABI OLUŞTUR</button>
+                            </div>
+                        </div>
+                        <div class="text-center dont-have">Zaten Hesabın Var Mı? <a href="/Login/Index">GİRİŞ YAP</a></div>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+        <div class="login-right signup-bg">
+        </div>
+    </div>
+</div>

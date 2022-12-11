@@ -1,0 +1,36 @@
+﻿@model List<DemoPortfolioProject.Models.Entities.TBLAcademic>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int sayac = 0;
+}
+
+
+
+<table class="table table-striped">
+    <tr>
+        <th>No</th>
+        <th>Okul Adı</th>
+        <th>Açıklama</th>
+        <th>Baslangıç Tarihi</th>
+        <th>Bitiş Tarihi</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        sayac++;
+        <tr>
+            <td>@sayac</td>
+            <td>@item.SchoolName</td>
+            <td>@item.Description</td>
+            <td>@item.StartDate.Value.Year</td>
+            <td>@item.EndDate.Value.Year</td>
+            <td><a href="/Academic/DeleteAcademic/@item.AcademicID" class="btn btn-danger">Sil</a></td>
+            <td><a href="/Academic/UpdateAcademic/@item.AcademicID" class="btn btn-warning">Güncelle</a></td>
+        </tr>
+    }
+</table>
+
+<a href="/Academic/AddAcademic" class="btn btn-primary">Yeni Eğitim Girisi</a>

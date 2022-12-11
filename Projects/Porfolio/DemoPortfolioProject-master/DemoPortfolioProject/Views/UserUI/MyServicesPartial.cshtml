@@ -1,0 +1,28 @@
+﻿@using DemoPortfolioProject.Models.Entities
+@model  List<TBLServices>
+<section class="w3l-homeblock1" id="about">
+    <div class="midd-w3 py-5">
+        <div class="container py-lg-5 py-md-3">
+            <div class="row">
+                <div class="col-lg-6">
+                    <span class="text" style="font:bold">Yetkinliklerim</span>
+   
+                    <ul class="service-list mt-md-5 mt-4">
+                        @foreach (var item in Model)
+                        {
+                            <li class="service-link"><a href="#">@item.Title</a></li>
+                            <br />
+                        }
+                    </ul>                  
+                    
+                </div>
+                <div class="col-lg-6 mt-lg-0 mt-5">
+                    <div class="position-relative">
+                        <img src="~/Template/iportfolio-starter/assets/images/AboutMe.png" alt="" class="radius-image img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+

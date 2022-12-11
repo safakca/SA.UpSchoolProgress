@@ -1,0 +1,28 @@
+﻿@model List<DemoPortfolioProject.Models.Entities.TBLMessage>
+@{
+    ViewBag.Title = "Inbox";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    int sayac = 0;
+}
+
+<h2>Gelen Kutusu</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>No</th>
+        <th>Gönderen</th>
+        <th>Konu</th>
+        <th>Mesaj Aç</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        sayac++;
+        <tr>
+            <td>@sayac</td>
+            <td>@item.SenderNameSurname</td>
+            <td>@item.Meassagesubjet</td>
+            <td><a href="/Message/MesseageDetails/@item.MessageID" class="btn btn-primary">Mesajı Oku</a></td>
+        </tr>
+
+    }
+</table>

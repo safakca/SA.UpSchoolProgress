@@ -1,0 +1,24 @@
+﻿
+@{
+    Layout = null;
+}
+
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+
+<form method="post">
+    <div class="container">
+        <h1 style="margin-bottom:50px; margin-top:200px">Hoşgeldiz.. </h1>
+ 
+        <label> Mail Adreesiniz :</label>
+        <input type="text" name="MemberMail" class="form-control" />
+        <br />
+        <label> Sifrenizi giriniz :</label>
+        <input type="password" name="MemberPassword" class="form-control" />
+        <br />
+        <div class="container" style="display:flex; justify-content:flex-end; gap:8px" >
+            <button style="border:solid,5px" class="btn btn-success">Admin Girişi Yap</button> 
+            <a href="/UserUI/Index" class="btn btn-warning">Profilimi İncele</a>
+        </div>
+
+    </div>
+</form>

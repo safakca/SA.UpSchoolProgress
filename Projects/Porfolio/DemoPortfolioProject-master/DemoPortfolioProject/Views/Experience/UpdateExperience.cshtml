@@ -1,0 +1,27 @@
+﻿@model DemoPortfolioProject.Models.Entities.TBLExperience
+@{
+    ViewBag.Title = "UpdateExperience";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style="margin-bottom:50px">Eğitim Güncelle</h2>
+
+<form method="post">
+    @Html.HiddenFor(x => x.ExperienceID)
+    <label>Okul Adı</label>
+    @Html.TextBoxFor(x => x.CompanyNamme, new { @class = "form-control" })
+    <br />
+    <label>Açıklama</label>
+    <textarea name="Description" rows="5" cols="5" class="form-control"></textarea>
+    <br />
+    <label>Başlangıç Tarihi </label>
+    <input type="date" name="StartDate" class="form-control" />
+    <br />
+    <label>Bitiş Tarihi </label>
+    <input type="date" name="EndDate" class="form-control" />
+    <br />
+
+    <button class="btn btn-primary"> Kaydet </button>
+</form>
+
+

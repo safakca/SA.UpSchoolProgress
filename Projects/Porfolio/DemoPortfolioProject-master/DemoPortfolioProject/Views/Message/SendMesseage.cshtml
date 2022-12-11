@@ -1,0 +1,20 @@
+﻿@model DemoPortfolioProject.Models.Entities.TBLMessage
+@{
+    ViewBag.Title = "SendMesseage";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Mesaj Gönder</h2>
+
+<form method="post">
+    <label>Alıcı Mail Adresi</label>
+    @Html.TextBoxFor(x => x.ReceiverMail, new { @class = "form-control" })
+    <br />
+    <label>Konu</label>
+    @Html.TextBoxFor(x => x.Meassagesubjet, new { @class = "form-control" })
+    <br />
+    <label>Mesajınız</label> 
+    <textarea  name="MessageContent" rows="2" cols="5" class = "form-control"></textarea>
+    <br />
+    <button class="btn btn-primary">Mesajı Gönder</button>
+</form>

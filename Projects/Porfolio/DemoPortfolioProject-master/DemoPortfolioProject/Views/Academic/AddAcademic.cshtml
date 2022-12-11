@@ -1,0 +1,25 @@
+﻿@model DemoPortfolioProject.Models.Entities.TBLAcademic
+@{
+    ViewBag.Title = "AddAcademic";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2 style="margin-bottom:50px">Yeni Eğitim Girşi</h2>
+
+<form method="post">
+    <label>Okul Adı</label>
+    @Html.TextBoxFor(x => x.SchoolName, new { @class = "form-control" })
+    <br />
+    <label>Açıklama</label>
+    <textarea name="Description" rows="5" cols="5" class="form-control"></textarea>
+    <br />
+    <label>Başlangıç Tarihi </label>
+    <input type="date" name="StartDate" class="form-control" />
+    <br />
+    <label>Bitiş Tarihi </label>
+    <input type="date" name="EndDate" class="form-control" />
+    <br />
+
+    <button class="btn btn-primary"> Kaydet </button>
+</form>
+
