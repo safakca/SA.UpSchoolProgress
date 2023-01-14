@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kcs4qrk0YdM6Pm1nwrxWHwWtaUqmzxUyj8p6YDmYH5o=",
+  "Source": "UpSchool_WebApi",
+  "BasePath": "_content/UpSchool_WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
