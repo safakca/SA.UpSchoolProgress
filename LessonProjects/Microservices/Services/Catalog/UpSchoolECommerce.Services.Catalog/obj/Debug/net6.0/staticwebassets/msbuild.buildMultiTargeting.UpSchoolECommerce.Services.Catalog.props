@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UpSchoolECommerce.Services.Catalog.props" />
+</Project>
