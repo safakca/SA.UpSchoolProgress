@@ -1,0 +1,197 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CrmProject.UILayer
+build_property.RootNamespace = CrmProject.UILayer
+build_property.ProjectDir = C:\Users\safak\OneDrive\Masaüstü\hwsTests\UpSchoolProgress\LessonsProjects\UpSchoolProgress\LessonProjects\CRM\CrmProject.UILayer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\safak\OneDrive\Masaüstü\hwsTests\UpSchoolProgress\LessonsProjects\UpSchoolProgress\LessonProjects\CRM\CrmProject.UILayer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/AdminArea/Views/AdminCustomer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXEFkbWluQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/AdminArea/Views/Alert/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXEFsZXJ0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/AdminArea/Views/Contact/AddContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXENvbnRhY3RcQWRkQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/AdminArea/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5BcmVhXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/EmployeeArea/Views/ChartArea/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVBcmVhXFZpZXdzXENoYXJ0QXJlYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/EmployeeArea/Views/DashboardArea/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVBcmVhXFZpZXdzXERhc2hib2FyZEFyZWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/EmployeeArea/Views/EmployeeArea/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVBcmVhXFZpZXdzXEVtcGxveWVlQXJlYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/EmployeeArea/Views/EmployeeProfileArea/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVBcmVhXFZpZXdzXEVtcGxveWVlUHJvZmlsZUFyZWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/EmployeeArea/Views/EmployeeTaskArea/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVBcmVhXFZpZXdzXEVtcGxveWVlVGFza0FyZWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/EmployeeArea/Views/EmployeeTaskDetailArea/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVBcmVhXFZpZXdzXEVtcGxveWVlVGFza0RldGFpbEFyZWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/EmployeeArea/Views/MessageArea/SendEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVBcmVhXFZpZXdzXE1lc3NhZ2VBcmVhXFNlbmRFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/EmployeeArea/Views/MessageArea/SendMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVBcmVhXFZpZXdzXE1lc3NhZ2VBcmVhXFNlbmRNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Areas/EmployeeArea/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRW1wbG95ZWVBcmVhXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Announcement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5ub3VuY2VtZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Category/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/EmployeeTask/AddTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVUYXNrXEFkZFRhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/EmployeeTask/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVUYXNrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Employee/AddEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Employee/UpdateEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXBkYXRlRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Register/EmailConfirmed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcRW1haWxDb25maXJtZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Report/ReportList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFJlcG9ydExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Role/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Role/AssignRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBc3NpZ25Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Role/UpdateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVcGRhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Role/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Shared/Components/_ChartDashboardPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NoYXJ0RGFzaGJvYXJkUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Shared/Components/_FeatureDashboardPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0ZlYXR1cmVEYXNoYm9hcmRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Shared/Components/_HeadDashboardPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWREYXNoYm9hcmRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Shared/Components/_OverViewDashboardPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX092ZXJWaWV3RGFzaGJvYXJkUGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Shared/_CrmLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Dcm1MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Shared/_EmployeeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FbXBsb3llZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/safak/OneDrive/Masaüstü/hwsTests/UpSchoolProgress/LessonsProjects/UpSchoolProgress/LessonProjects/CRM/CrmProject.UILayer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

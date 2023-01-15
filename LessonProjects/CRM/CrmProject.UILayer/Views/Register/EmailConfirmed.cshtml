@@ -1,0 +1,19 @@
+﻿@model AppUser
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<h1>EmailConfirmed</h1>
+<form method="post">
+    <div class="col-6">
+        <label>EMAİL</label>
+        <input type="text" asp-for="Email" class="form-control" />
+
+        <label>EMAİL CONFİRMED CODE</label>
+        <input type="text" asp-for="MailCode" class="form-control" />
+        <br />
+        <button type="submit" class="btn btn-outline-success">CONFIRMED</button>
+    </div>
+</form>
