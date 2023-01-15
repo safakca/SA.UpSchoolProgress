@@ -1937,11 +1937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\UpSchool_SignalR_Client.csproj",
+      "projectUniqueName": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\UpSchool_SignalR_Client.csproj",
       "projectName": "UpSchool_SignalR_Client",
-      "projectPath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\UpSchool_SignalR_Client.csproj",
+      "projectPath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\UpSchool_SignalR_Client.csproj",
       "packagesPath": "C:\\Users\\safak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\obj\\",
+      "outputPath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\safak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1958,8 +1958,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Api\\UpSchool_SignalR_Api.csproj": {
-              "projectPath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Api\\UpSchool_SignalR_Api.csproj"
+            "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Api\\UpSchool_SignalR_Api.csproj": {
+              "projectPath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Api\\UpSchool_SignalR_Api.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MTG0gDVQqDVFL61JF8Q9Ca27/LMCdA4s0t3YjUdfZKrXa8FETfPhYKPqkK43Ie/mUbi5Yga+A2EYIA7e8s/Vig==",
+  "dgSpecHash": "eWQgpY1woOerHzmU9hZFSbGyS2SqU9Q8JZGTKh2JZ/TUrRRNvDTM6XjLHj5aaAcsYAILH8D1gNocj/9HWNYODw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\UpSchool_SignalR_Client.csproj",
+  "projectFilePath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\UpSchool_SignalR_Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\safak\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\safak\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

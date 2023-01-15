@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Api\\UpSchool_SignalR_Api.csproj",
+      "projectUniqueName": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Api\\UpSchool_SignalR_Api.csproj",
       "projectName": "UpSchool_SignalR_Api",
-      "projectPath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Api\\UpSchool_SignalR_Api.csproj",
+      "projectPath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Api\\UpSchool_SignalR_Api.csproj",
       "packagesPath": "C:\\Users\\safak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Api\\obj\\",
+      "outputPath": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\safak\\AppData\\Roaming\\NuGet\\NuGet.Config",

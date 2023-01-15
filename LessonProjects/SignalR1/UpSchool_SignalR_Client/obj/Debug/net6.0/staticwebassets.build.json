@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "+NkqpxCPV4PEmSYTaxPJkDodZZ92Im83Ja/y69aaaVs=",
+  "Hash": "sc3gTv5jce4Vv8ff9l2Rkm/N3k6T6iSndafDr3o0Exg=",
   "Source": "UpSchool_SignalR_Client",
   "BasePath": "_content/UpSchool_SignalR_Client",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Api\\UpSchool_SignalR_Api.csproj",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Api\\UpSchool_SignalR_Api.csproj",
       "Version": 2,
       "Source": "UpSchool_SignalR_Api",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "UpSchool_SignalR_Client\\wwwroot",
       "Source": "UpSchool_SignalR_Client",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\css\\site.css",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -46,10 +46,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\favicon.ico",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -63,10 +63,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\js\\site.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -97,10 +97,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -114,10 +114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -148,10 +148,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -165,10 +165,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -182,10 +182,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -199,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -216,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -233,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -250,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -267,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -284,10 +284,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -301,10 +301,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -318,10 +318,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -335,10 +335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -352,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -369,10 +369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -386,10 +386,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -403,10 +403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -420,10 +420,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -471,10 +471,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -488,10 +488,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -505,10 +505,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -522,10 +522,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -539,10 +539,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -556,10 +556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -573,10 +573,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -590,10 +590,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -607,10 +607,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -624,10 +624,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -641,10 +641,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.js",
       "AssetKind": "All",
@@ -658,10 +658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
     },
     {
-      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "Identity": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
       "SourceId": "UpSchool_SignalR_Client",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchool_SignalR_Project\\UpSchool_SignalR_Client\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\safak\\OneDrive\\Masaüstü\\hwsTests\\UpSchoolProgress\\LessonsProjects\\UpSchoolProgress\\LessonProjects\\SignalR1\\UpSchool_SignalR_Client\\wwwroot\\",
       "BasePath": "_content/UpSchool_SignalR_Client",
       "RelativePath": "lib/microsoft/signalr/dist/browser/signalr.min.js",
       "AssetKind": "All",
