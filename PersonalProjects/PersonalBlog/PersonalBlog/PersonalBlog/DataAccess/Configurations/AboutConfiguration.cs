@@ -8,7 +8,13 @@ public class AboutConfiguration : IEntityTypeConfiguration<About>
     public void Configure(EntityTypeBuilder<About> builder)
     {
         builder.ToTable(nameof(About));
-        builder.HasKey(x => x.Id); 
+        builder.HasKey(x => x.Id);
+
+
+        About[] abouts =
+        {
+            new() { Id=1, Education=}
+        };
     } 
 }
 
