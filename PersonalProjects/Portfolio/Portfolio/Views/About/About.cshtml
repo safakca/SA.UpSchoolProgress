@@ -29,8 +29,8 @@
                     <td>@item.Company</td>
                     <td>@item.Experience</td>
                     <td>
-                        @Html.ActionLink("Edit", "Edit", new {  id=@item.Id  }) |
-                        @Html.ActionLink("Delete", "Delete", new {  id=@item.Id})
+                        @Html.ActionLink("Edit", "Update", new {  id=@item.Id  }) |
+                        @Html.ActionLink("Delete", "Remove", new {  id=@item.Id})
                     </td>
                 </tr>
             }

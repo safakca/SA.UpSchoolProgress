@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Portfolio.DataAccess.Entities;
 using Portfolio.DataAccess.Repositories;
-using System.Runtime.CompilerServices;
 
 namespace Portfolio.Controllers
 {
@@ -30,13 +29,13 @@ namespace Portfolio.Controllers
         public async Task<IActionResult> Create(Skill model)
         {
             await _skillRepo.CreateAsync(model);
-            return View(model);
+            return RedirectToAction("Skill");
         }
 
         [HttpGet]
         public async Task<IActionResult> Update(int id)
         {
-            Skill result = await _skillRepo.GetAsync(id); 
+            Skill result = await _skillRepo.GetAsync(id);
             return View(result);
         }
 
@@ -47,6 +46,12 @@ namespace Portfolio.Controllers
             return RedirectToAction("Skill");
         }
 
+        [HttpGet]
+        public async Task<IActionResult> Remove(int id)
+        {
+            Skill result = await _skillRepo.GetAsync(id);
+            return View(result);
+        }
         public async Task<IActionResult> Remove(Skill model)
         {
             await _skillRepo.DeleteAsync(model);
