@@ -1,0 +1,40 @@
+﻿@model List<Portfolio.DataAccess.Entities.About>
+
+@{
+    ViewData["Title"] = "About";
+}
+
+<h2>@ViewData["Title"]</h2>
+<div class="container">
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Information</th>
+                <th scope="col">Title</th>
+                <th scope="col">Company Name</th>
+                <th scope="col">Experience</th>
+                <th scope="col">Edit | Delete</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Information</td>
+                    <td>@item.Title</td>
+                    <td>@item.Company</td>
+                    <td>@item.Experience</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new {  id=@item.Id  }) |
+                        @Html.ActionLink("Delete", "Delete", new {  id=@item.Id})
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

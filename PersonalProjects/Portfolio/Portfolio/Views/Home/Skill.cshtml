@@ -1,0 +1,61 @@
+﻿@model List<Portfolio.DataAccess.Entities.Skill>
+
+@{
+    ViewData["Title"] = "Skills";
+}
+<h2>@ViewData["Title"]</h2>
+
+<div class="container">
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Detail</th>
+                <th scope="col">Edit | Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Detail</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new {  id=@item.Id  }) |
+                        @Html.ActionLink("Delete", "Delete", new {  id=@item.Id})
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    @*<p>I write .net about 8 months.</p>
+
+    <p>The technologies that I am working with ; </p>
+
+    <p>SOLID, Clean Code,Entity Framework, nTier Architecture, Onion Architecture</p>
+    <p>DI-dependency injection, Generic Repository, uOw - UnitOfWork, Fluent Validation, Fluent Api, CQRS, Linq</p>
+    <p>If you wanna read more informations , you can click the icons :) </p>
+    <div class="d-flex col gap-3">
+
+    <img src="~/Images/cSharp.png" />
+    <img src="~/Images/vs.png" />
+    <img src="~/Images/vsCode.png" />
+    <img src="~/Images/NETCore.png" />
+    <img src="~/Images/github.png" />
+    <img src="~/Images/gitLab.png" />
+    <img src="~/Images/postman.png" />
+    <img src="~/Images/swagger.png" />
+    <img src="~/Images/html.png" />
+    <img src="~/Images/jira.png" />
+    <img src="~/Images/trello.png" />
+    <img src="~/Images/sqlserver.png" />
+    <img src="~/Images/posgreSql.png" />
+    <img src="~/Images/mongo.png" />
+    </div>*@
+</div>
