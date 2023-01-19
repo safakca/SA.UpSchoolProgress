@@ -1,0 +1,40 @@
+﻿@model Portfolio.DataAccess.Entities.Skill
+
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update</h1>
+
+<h4>Skill</h4>
+<hr />
+<div class="row">
+    <form class="w-75 m-5 p-3  mx-auto" asp-action="Update" asp-controller="Skill">
+        <input type="hidden" asp-for="@Model.Id"/>
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="Detail" class="control-label"></label>
+            <input asp-for="Detail" class="form-control" />
+            <span asp-validation-for="Detail" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <button class="btn btn-primary w-100">Save</button>
+        </div>
+    </form>
+</div>
+
+<div>
+    <a asp-action="Skill" asp-controller="Skill">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

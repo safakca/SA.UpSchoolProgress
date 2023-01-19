@@ -8,7 +8,7 @@
 <div class="container">
 
     <p>
-        <a asp-action="Create">Create New</a>
+        <a asp-action="Create" asp-controller="Skill">Create New</a>
     </p>
     <table class="table table-striped">
         <thead>
@@ -23,14 +23,14 @@
             {
                 <tr>
                     <td>@item.Name</td>
-                    <td>@item.Detail</td>
+                    <td><a href="@item.Detail">@item.Detail</a> </td>
                     <td>
-                        @Html.ActionLink("Edit", "Edit", new {  id=@item.Id  }) |
-                        @Html.ActionLink("Delete", "Delete", new {  id=@item.Id})
+                        @Html.ActionLink("Edit", "Update", new {  id=@item.Id  }) |
+                        @Html.ActionLink("Delete", "Remove", new {  id=@item.Id})
                     </td>
                 </tr>
             }
         </tbody>
-    </table> 
+    </table>
 
 </div>
