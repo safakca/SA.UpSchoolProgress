@@ -1,0 +1,12 @@
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\bin\Debug\net6.0\UpSchoolEcommerce.Shared.deps.json
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\bin\Debug\net6.0\UpSchoolEcommerce.Shared.dll
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\bin\Debug\net6.0\UpSchoolEcommerce.Shared.pdb
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\obj\Debug\net6.0\UpSchoolEcommerce.Shared.csproj.AssemblyReference.cache
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\obj\Debug\net6.0\UpSchoolEcommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\obj\Debug\net6.0\UpSchoolEcommerce.Shared.AssemblyInfoInputs.cache
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\obj\Debug\net6.0\UpSchoolEcommerce.Shared.AssemblyInfo.cs
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\obj\Debug\net6.0\UpSchoolEcommerce.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\obj\Debug\net6.0\UpSchoolEcommerce.Shared.dll
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\obj\Debug\net6.0\refint\UpSchoolEcommerce.Shared.dll
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\obj\Debug\net6.0\UpSchoolEcommerce.Shared.pdb
+C:\Projects\UpSchoolProgress\LessonProjects\Microservices\MicroservicesEcommerce\Shared\UpSchoolEcommerce.Shared\obj\Debug\net6.0\ref\UpSchoolEcommerce.Shared.dll
