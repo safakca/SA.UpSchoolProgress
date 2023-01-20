@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IAHQWKQyqJjTCNSJoFQaF1tvoQ+DUtexsavReut5dEM=",
+  "Source": "UpSchoolEcommerce.Service.Catalog",
+  "BasePath": "_content/UpSchoolEcommerce.Service.Catalog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
