@@ -28,8 +28,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9iaWxlRGV2aWNlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Projects/UpSchoolProgress/PersonalProjects/SA.MongoDbCRUD/SA.MongoDbCRUD/Views/MobileDevice/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9iaWxlRGV2aWNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/UpSchoolProgress/PersonalProjects/SA.MongoDbCRUD/SA.MongoDbCRUD/Views/MobileDevice/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9iaWxlRGV2aWNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Projects/UpSchoolProgress/PersonalProjects/SA.MongoDbCRUD/SA.MongoDbCRUD/Views/MobileDevice/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9iaWxlRGV2aWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/UpSchoolProgress/PersonalProjects/SA.MongoDbCRUD/SA.MongoDbCRUD/Views/MobileDevice/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9iaWxlRGV2aWNlXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Projects/UpSchoolProgress/PersonalProjects/SA.MongoDbCRUD/SA.MongoDbCRUD/Views/Shared/Error.cshtml]

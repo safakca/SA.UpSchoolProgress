@@ -29,5 +29,40 @@ namespace SA.MongoDbCRUD.Controllers
             _context.Create(model);
             return RedirectToAction("Index");
         }
+
+        [HttpGet]
+        public IActionResult Update(string Name)
+        {
+            MobileDeviceEntity details = _context.GetDetails(Name);
+            return View(details);
+        }
+
+        [HttpPost]
+        public IActionResult Update(string _id, MobileDeviceEntity model)
+        {
+            _context.Update(_id, model);
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult Details(string Name)
+        {
+            MobileDeviceEntity details = _context.GetDetails(Name);
+            return View(details);
+        }
+
+        [HttpGet]
+        public IActionResult Delete(string Name)
+        {
+            MobileDeviceEntity details = _context.GetDetails(Name);
+            return View(details);
+        }
+
+        [HttpPost]
+        public IActionResult DeletePost(string Name)
+        {
+            _context.Delete(Name);
+            return RedirectToAction("Index");
+        }
     }
 }
