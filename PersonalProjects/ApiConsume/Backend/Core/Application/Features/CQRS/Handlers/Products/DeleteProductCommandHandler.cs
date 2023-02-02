@@ -9,7 +9,7 @@ public class DeleteProductCommandHandler : IRequestHandler<DeleteProductCommandR
     private readonly IRepository<Product> _repository;
 
     public DeleteProductCommandHandler(IRepository<Product> repository) => _repository = repository;
-     
+
     public async Task<Unit> Handle(DeleteProductCommandRequest request, CancellationToken cancellationToken)
     {
         var deleted = await _repository.GetByIdAsync(request.Id);

@@ -1,10 +1,9 @@
 ﻿using Frontend.Models;
-using System.Text.Json;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Text;
-using System.Reflection;
+using System.Text.Json;
 
 namespace Frontend.Controllers;
 
@@ -110,8 +109,8 @@ public class ProductController : Controller
                 {
                     return RedirectToAction("List");
                 }
-                    ModelState.AddModelError("", "Happened Error"); 
-            } 
+                ModelState.AddModelError("", "Happened Error");
+            }
         }
         return View(model);
     }
@@ -132,7 +131,7 @@ public class ProductController : Controller
                 var result = JsonSerializer.Deserialize<UpdateProductModel>(jsonData, new JsonSerializerOptions
                 {
                     PropertyNamingPolicy = JsonNamingPolicy.CamelCase
-                }); 
+                });
 
                 var responseCategory = await client.GetAsync("http://localhost:5106/api/category/list");
 
@@ -147,10 +146,10 @@ public class ProductController : Controller
 
                     if (result != null)
                         result.Categories = new Microsoft.AspNetCore.Mvc.Rendering.SelectList(data, "Id", "Defination");
-                }  
+                }
                 return View(result);
             }
-        } 
+        }
         return RedirectToAction("List");
     }
 

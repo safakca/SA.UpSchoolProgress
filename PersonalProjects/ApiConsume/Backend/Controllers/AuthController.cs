@@ -3,7 +3,6 @@ using Backend.Core.Application.Features.CQRS.Queries.Users;
 using Backend.Infrastructure.Tools;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using System.IdentityModel.Tokens.Jwt;
 
 namespace Backend.Controllers;
 
@@ -11,9 +10,9 @@ namespace Backend.Controllers;
 [ApiController]
 public class AuthController : ControllerBase
 {
-    private readonly IMediator _mediator; 
-    public AuthController(IMediator mediator) =>_mediator = mediator; 
-    
+    private readonly IMediator _mediator;
+    public AuthController(IMediator mediator) => _mediator = mediator;
+
     /// <summary>
     /// Create User
     /// </summary>
@@ -23,11 +22,11 @@ public class AuthController : ControllerBase
     public async Task<IActionResult> Register(RegisterUserCommandRequest request) => Created("", await _mediator.Send(request));
 
     [HttpPost("[action]")] //TODO: if control icin refaktor edilmeli
-    public async Task<IActionResult> Login(CheckUserQueryRequest request) 
-    { 
+    public async Task<IActionResult> Login(CheckUserQueryRequest request)
+    {
         var dto = await _mediator.Send(request);
-        if(dto.IsExist)
-        { 
+        if (dto.IsExist)
+        {
             return Created("", JwtGenerator.GenerateToken(dto));
         }
         else

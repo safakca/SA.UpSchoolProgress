@@ -1,4 +1,4 @@
-﻿namespace Frontend.Models; 
+﻿namespace Frontend.Models;
 public class JwtTokenResponseModel
 {
     public string? Token { get; set; }

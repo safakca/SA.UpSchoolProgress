@@ -10,7 +10,7 @@ public class UpdateCategoryCommandHandler : IRequestHandler<UpdateCategoryComman
     private readonly IRepository<Category> _repository;
 
     public UpdateCategoryCommandHandler(IRepository<Category> repository) => _repository = repository;
-     
+
     public async Task<Unit> Handle(UpdateCategoryCommandRequest request, CancellationToken cancellationToken)
     {
         var updated = await _repository.GetByIdAsync(request.Id);

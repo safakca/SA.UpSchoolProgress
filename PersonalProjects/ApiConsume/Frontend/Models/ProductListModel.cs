@@ -1,5 +1,4 @@
-﻿using System;
-namespace Frontend.Models;
+﻿namespace Frontend.Models;
 
 public class ProductListModel
 {

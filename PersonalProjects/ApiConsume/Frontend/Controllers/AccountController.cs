@@ -66,7 +66,7 @@ namespace Frontend.Controllers
                 else
                 {
                     ModelState.AddModelError("", "Kullanıcı adı veya şifre hatalı");
-                } 
+                }
             }
             return View(model);
         }

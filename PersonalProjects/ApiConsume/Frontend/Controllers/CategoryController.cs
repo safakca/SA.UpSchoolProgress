@@ -1,7 +1,6 @@
 ﻿using Frontend.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Security.Claims;
 using System.Text;
 using System.Text.Json;
 
@@ -137,5 +136,5 @@ public class CategoryController : Controller
         return View(model);
     }
 
-    
+
 }

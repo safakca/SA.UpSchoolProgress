@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Presentation\\Onion.ApiConsume.API\\Onion.ApiConsume.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Application\\Onion.ApiConsume.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Application\\Onion.ApiConsume.Application.csproj",
+        "projectName": "Onion.ApiConsume.Application",
+        "projectPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Application\\Onion.ApiConsume.Application.csproj",
+        "packagesPath": "C:\\Users\\safak\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\safak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Projects\\FERP\\EInvoice.EG.Nuget\\EInvoice.EG.Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Domain\\Onion.ApiConsume.Domain.csproj": {
+                "projectPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Domain\\Onion.ApiConsume.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Domain\\Onion.ApiConsume.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Domain\\Onion.ApiConsume.Domain.csproj",
+        "projectName": "Onion.ApiConsume.Domain",
+        "projectPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Domain\\Onion.ApiConsume.Domain.csproj",
+        "packagesPath": "C:\\Users\\safak\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\safak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Projects\\FERP\\EInvoice.EG.Nuget\\EInvoice.EG.Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Infrastructure\\Onion.ApiConsume.Persistence\\Onion.ApiConsume.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Infrastructure\\Onion.ApiConsume.Persistence\\Onion.ApiConsume.Persistence.csproj",
+        "projectName": "Onion.ApiConsume.Persistence",
+        "projectPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Infrastructure\\Onion.ApiConsume.Persistence\\Onion.ApiConsume.Persistence.csproj",
+        "packagesPath": "C:\\Users\\safak\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Infrastructure\\Onion.ApiConsume.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\safak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Projects\\FERP\\EInvoice.EG.Nuget\\EInvoice.EG.Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Application\\Onion.ApiConsume.Application.csproj": {
+                "projectPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Application\\Onion.ApiConsume.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Presentation\\Onion.ApiConsume.API\\Onion.ApiConsume.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Presentation\\Onion.ApiConsume.API\\Onion.ApiConsume.API.csproj",
+        "projectName": "Onion.ApiConsume.API",
+        "projectPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Presentation\\Onion.ApiConsume.API\\Onion.ApiConsume.API.csproj",
+        "packagesPath": "C:\\Users\\safak\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Presentation\\Onion.ApiConsume.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\safak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Projects\\FERP\\EInvoice.EG.Nuget\\EInvoice.EG.Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Application\\Onion.ApiConsume.Application.csproj": {
+                "projectPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Core\\Onion.ApiConsume.Application\\Onion.ApiConsume.Application.csproj"
+              },
+              "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Infrastructure\\Onion.ApiConsume.Persistence\\Onion.ApiConsume.Persistence.csproj": {
+                "projectPath": "C:\\Projects\\UpSchoolProgress\\PersonalProjects\\ApiConsume\\Onion\\Infrastructure\\Onion.ApiConsume.Persistence\\Onion.ApiConsume.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

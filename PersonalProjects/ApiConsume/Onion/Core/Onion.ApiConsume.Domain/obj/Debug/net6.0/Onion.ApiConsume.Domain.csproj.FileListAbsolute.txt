@@ -1,0 +1,12 @@
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\bin\Debug\net6.0\Onion.ApiConsume.Domain.deps.json
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\bin\Debug\net6.0\Onion.ApiConsume.Domain.dll
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\bin\Debug\net6.0\Onion.ApiConsume.Domain.pdb
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\obj\Debug\net6.0\Onion.ApiConsume.Domain.csproj.AssemblyReference.cache
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\obj\Debug\net6.0\Onion.ApiConsume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\obj\Debug\net6.0\Onion.ApiConsume.Domain.AssemblyInfoInputs.cache
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\obj\Debug\net6.0\Onion.ApiConsume.Domain.AssemblyInfo.cs
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\obj\Debug\net6.0\Onion.ApiConsume.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\obj\Debug\net6.0\Onion.ApiConsume.Domain.dll
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\obj\Debug\net6.0\refint\Onion.ApiConsume.Domain.dll
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\obj\Debug\net6.0\Onion.ApiConsume.Domain.pdb
+C:\Projects\UpSchoolProgress\PersonalProjects\ApiConsume\Onion\Core\Onion.ApiConsume.Domain\obj\Debug\net6.0\ref\Onion.ApiConsume.Domain.dll

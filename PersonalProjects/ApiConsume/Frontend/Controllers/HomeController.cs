@@ -11,13 +11,13 @@ namespace Frontend.Controllers
             return View();
         }
 
-        [Authorize(Roles ="Admin")]
+        [Authorize(Roles = "Admin")]
         public string AdminPage()
         {
             return "AdminPage";
         }
 
-        [Authorize(Roles ="Member")]
+        [Authorize(Roles = "Member")]
         public string MemberPage()
         {
             return "MemberPage";

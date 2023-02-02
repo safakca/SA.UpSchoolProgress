@@ -21,18 +21,18 @@ public class CheckUserRequestHandler : IRequestHandler<CheckUserQueryRequest, Ch
         var dto = new CheckUserResponseDto();
         var user = await _userRepository.GetByFilterAsync(x => x.UserName == request.Username && x.Password == request.Password);
 
-        if(user == null)
+        if (user == null)
         {
             dto.IsExist = false;
-        } 
+        }
         else
         {
-            dto.Username= request.Username;
+            dto.Username = request.Username;
             dto.Id = user.Id;
-            dto.IsExist= true;
+            dto.IsExist = true;
             var role = await _roleRepository.GetByFilterAsync(x => x.Id == user.AppRoleId);
             dto.Role = role?.Defination;
         }
-        return dto;  
+        return dto;
     }
 }

@@ -1,6 +1,4 @@
-﻿using System.Text;
-
-namespace Backend.Infrastructure.Tools
+﻿namespace Backend.Infrastructure.Tools
 {
     public class JwtDefaults
     {

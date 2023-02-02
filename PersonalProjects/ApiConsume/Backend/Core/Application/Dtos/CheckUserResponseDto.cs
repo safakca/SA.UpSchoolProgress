@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Identity;
-
-namespace Backend.Core.Application.Dtos;
+﻿namespace Backend.Core.Application.Dtos;
 public class CheckUserResponseDto
 {
     public int Id { get; set; }
