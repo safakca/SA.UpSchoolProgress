@@ -1,0 +1,12 @@
+﻿@using CrmProject.EntityLayer.Concrete
+@model List<Customer>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+@foreach (var item in Model)
+	{
+		 <p>@item.CustomerName @item.CustomerSurname</p>
+	}
