@@ -8,12 +8,12 @@ using Onion.ApiConsume.Persistence.Repositories;
 namespace Onion.ApiConsume.Persistence;
 public static class ServiceRegistration
 {
-    public static void AddInfrastructureServices(this IServiceCollection services, IConfiguration configuration)
+    public static void AddPersistenceServices(this IServiceCollection services, IConfiguration configuration)
     {
         services.AddDbContext<BaseContext>(opt =>
         {
-            opt.UseNpgsql(configuration.GetConnectionString("Local"));
-            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            opt.UseNpgsql(configuration.GetConnectionString("Local")); 
         });
+        services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
     }
 }

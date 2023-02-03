@@ -4,7 +4,7 @@ using Onion.ApiConsume.Persistence.Configurations;
 
 namespace Onion.ApiConsume.Persistence.Context;
 public class BaseContext : DbContext
-{
+{ 
     public BaseContext(DbContextOptions<BaseContext> options) : base(options) { }
     public DbSet<Product> Products => this.Set<Product>();
     public DbSet<Category> Categories => this.Set<Category>();
@@ -13,7 +13,9 @@ public class BaseContext : DbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.ApplyConfiguration(new AppUserConfiguration());
+        modelBuilder.ApplyConfiguration(new AppRoleConfiguration());
         modelBuilder.ApplyConfiguration(new ProductConfiguration());
+        modelBuilder.ApplyConfiguration(new CategoryConfiguration()); 
         base.OnModelCreating(modelBuilder);
     }
 }

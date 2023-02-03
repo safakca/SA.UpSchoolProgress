@@ -9,15 +9,17 @@ STEP-1)
 dotnet ef migrations add InitialCreate --project ../DataAccessLayer --context Context
 **** ROOT da yazılacak
 dotnet ef migrations add InitialCreate --startup-project ../WebAPI --project ../DataAccessLayer -c Context
-dotnet ef migrations add "InitialCreate" --startup-project DynamicWebProject.WebAPI --project DynamicWebProject.DataAccessLayer --output-dir "Migrations"
+dotnet ef migrations add "InitialCreate" --startup-project Presentation/Onion.ApiConsume.API --project Infrastructure/Onion.ApiConsume.Persistence --output-dir "Migrations"
+***********************************************************************************************************
+dotnet ef migrations add "InitialCreate" --startup-project Presentation/Onion.ApiConsume.API --project Infrastructure/Onion.ApiConsume.Persistence -c BaseContext
 
 
 STEP-2)  
 **** WebAPI klasöründe yazılacak
-dotnet ef database update --project ../DataAccessLayer --context Context
+dotnet ef database update --project Infrastructure/Onion.ApiConsume.Persistence -c BaseContext
 
 **** ROOT da yazılacak
-dotnet ef database update --startup-project DynamicWebProject.WebAPI --project ../DataAccessLayer --context Context
+dotnet ef database update  --startup-project Presentation/Onion.ApiConsume.API  --project Infrastructure/Onion.ApiConsume.Persistence -c BaseContext
 
 dotnet ef migrations script AddAttributeClassDescription --startup-project DynamicWebProject.WebAPI --project DynamicWebProject.DataAccessLayer
 

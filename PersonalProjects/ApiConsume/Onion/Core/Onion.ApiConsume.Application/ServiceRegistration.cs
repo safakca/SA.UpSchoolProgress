@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
+using Onion.ApiConsume.Application.Mappings;
 using System.Reflection;
 
 namespace Onion.ApiConsume.Application;
@@ -11,10 +12,7 @@ public static class ServiceRegistration
         services.AddMediatR(Assembly.GetExecutingAssembly());
         services.AddAutoMapper(opt =>
         {
-            opt.AddProfiles(new List<Profile>
-            {
-
-            });
+            opt.AddProfile(new MappingProfiles());
         });
     }
 }

@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 #region ServiceRegistration
 
-builder.Services.AddInfrastructureServices(builder.Configuration);
+builder.Services.AddPersistenceServices(builder.Configuration);
 builder.Services.AddApplicationServices();
 
 #endregion

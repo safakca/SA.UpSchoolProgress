@@ -34,7 +34,19 @@ namespace Onion.ApiConsume.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("AppRoles");
+                    b.ToTable("AppRole", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Defination = "admin"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Defination = "member"
+                        });
                 });
 
             modelBuilder.Entity("Onion.ApiConsume.Domain.Entities.AppUser", b =>
@@ -58,7 +70,23 @@ namespace Onion.ApiConsume.Persistence.Migrations
 
                     b.HasIndex("AppRoleId");
 
-                    b.ToTable("AppUsers");
+                    b.ToTable("AppUser", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            AppRoleId = 1,
+                            Password = "1",
+                            UserName = "admin"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            AppRoleId = 2,
+                            Password = "1",
+                            UserName = "member"
+                        });
                 });
 
             modelBuilder.Entity("Onion.ApiConsume.Domain.Entities.Category", b =>
@@ -74,7 +102,19 @@ namespace Onion.ApiConsume.Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories");
+                    b.ToTable("Category", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Defination = "Clothes"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Defination = "Electronic"
+                        });
                 });
 
             modelBuilder.Entity("Onion.ApiConsume.Domain.Entities.Product", b =>
@@ -101,7 +141,41 @@ namespace Onion.ApiConsume.Persistence.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Products");
+                    b.ToTable("Product", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            CategoryId = 1,
+                            Name = "Skirt",
+                            Price = 500m,
+                            Stock = 852
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CategoryId = 1,
+                            Name = "Jean",
+                            Price = 650m,
+                            Stock = 1000
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CategoryId = 2,
+                            Name = "MacbookPro",
+                            Price = 46500m,
+                            Stock = 200
+                        },
+                        new
+                        {
+                            Id = 4,
+                            CategoryId = 2,
+                            Name = "IMac",
+                            Price = 32650m,
+                            Stock = 150
+                        });
                 });
 
             modelBuilder.Entity("Onion.ApiConsume.Domain.Entities.AppUser", b =>
