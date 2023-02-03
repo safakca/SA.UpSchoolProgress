@@ -1,9 +1,0 @@
-MongoDb
-PosgreSql
-Mssql
-SqlLite
-
-Postman
-Docker
-DapperOrm
-DBeaver

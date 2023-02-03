@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\UpSchool_SignalR_Client.props" />
-</Project>

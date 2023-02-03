@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\UpSchoolEcommerce.Service.Catalog.props" />
-</Project>
