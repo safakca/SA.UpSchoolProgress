@@ -3,6 +3,9 @@
 <p> This repository contains assignments and projects from I have done during UpSchool .Net Developer Bootcamp progress.</p>
 <p> Bu repoda UpSchool .Net Bootcamp süreci boyunca derslerde yapılan pratikler ve bireysel çalışmalarım yer almaktadır.</p>
 <p> Repo da bulunan Lesson Project adlı klasör derste yapılan pratikleri içermektedir, bunlara kısaca değineceğim ; </p>
+
+<h3>Derslerde Yapılan Pratikler</h3> 
+
 <p> <b> CQRS(Command and Query Responsibility Segregation)</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/CQRS"> CQRS Pattern Design Projesi</a>  </p>
 <li> Ana odağı write (yazma) ve read (okuma) sorumluluklarının ayrıştırılmasına dayanan bir mimari tasarım modelidir. </li>  
 </br>
@@ -46,6 +49,10 @@
 <li>Küçük parçalara ayrılmış, internet aracılığıyla birbirleriyle haberleşerek çalışan yazılımcıklardır.</li>
 </br>
 
-<p><b>Api Consume</b> ➡️ <a href=" "> Api Consume Projesi</a></p>
-<li>Yazmış olduğum backend (api) projesini frontend(mvc) projesi ile tükettim. </li>
+<h3>Bireysel Projeler</h3> 
 
+<p><b>Api Consume</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/PersonalProjects/ApiConsume"> Api Consume Projesi</a> : Yazmış olduğum backend (api) projesini frontend(mvc) projesi ile tükettim.</p> 
+
+<p><b>SignalR Chat Uygulaması</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/PersonalProjects/BaseChatAppSignalR"> SignalR Chat Projesi</a> : Anlık mesajlaşma uygulamasıdır, mesajların kaydıda veritabanında tutulmaktadır. </p>
+
+<p><b>Base File Upload </b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/PersonalProjects/BaseFileUpload"> BaseFileUpload Projesi</a> : Temel resim dosyası yükleme ve bu resimlerin veritabına kaydedildildiği bir uygulamadır, ihtiyacınıza göre farklı dosya türlerinin yüklenmesi içinde revize edebilirsiniz. </p>
