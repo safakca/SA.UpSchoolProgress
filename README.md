@@ -55,4 +55,4 @@
 
 <p><b>SignalR Chat Uygulaması</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/PersonalProjects/BaseChatAppSignalR"> SignalR Chat Projesi</a> : Anlık mesajlaşma uygulamasıdır, mesajların kaydıda veritabanında tutulmaktadır. </p>
 
-<p><b>Base File Upload </b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/PersonalProjects/BaseFileUpload"> BaseFileUpload Projesi</a> : Temel resim dosyası yükleme ve bu resimlerin veritabına kaydedildildiği bir uygulamadır, ihtiyacınıza göre farklı dosya türlerinin yüklenmesi içinde revize edebilirsiniz. </p>
+<p><b>Base File Upload </b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/PersonalProjects/BaseFileUpload"> BaseFileUpload Projesi</a> : Temel resim dosyası yükleme ve bu resimlerin veritabına kaydedildildiği bir uygulamadır, ihtiyacınıza göre farklı dosya türlerinin yüklenmesi içinde revize edebilirsiniz. </p> 
