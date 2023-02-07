@@ -47,5 +47,5 @@
 </br>
 
 <p><b>Api Consume</b> ➡️ <a href=" "> Api Consume Projesi</a></p>
-<li> xx </li>
+<li>Yazmış olduğum backend (api) projesini frontend(mvc) projesi ile tükettim. </li>
 
