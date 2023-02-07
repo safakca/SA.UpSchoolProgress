@@ -25,5 +25,22 @@
 <li>Bir algoritmanın adımlarını tanımlamayı sağlar ve alt sınıfların bir veya daha fazla adımların implementasyonunu yapmasını olanak tanır.</li>
 </br>
 
-<p><b>SignalR</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/TemplatePattern">SignalR Projesi</a> </p>
+<p><b>SignalR</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/TemplatePattern">SignalR Projesi 1</a> 
+➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/SignalR2">SignalR Projesi 2</a></p>
 <li>Gerçek zamanlı uygulamalar geliştirmek için yazılmış açık kaynak kodlu bir . NET kütüphanedir.</li>
+</br>
+
+<p><b>Unit of Work</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/uOw">Unit of Work Projesi</a> </p>
+<li>Toplu veritabanı işlemlerini tek seferde bir kereye mahsus execute eden ve böylece bu toplu işlem neticesinde kaç kayıtın etkilendiğini rapor olarak sunabilen bir tasarım desenidir.</li>
+</br>
+
+<p><b>API(Application Programming Interface)</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/exAPI">API Projesi</a></p>
+<li>İki yazılım bileşeninin belirli tanımlar ve protokoller aracılığıyla birbiriyle iletişim kurmasına olanak tanıyan mekanizmalardır.</li>
+</br>
+
+<p><b>Docker </b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/Docker/DotNetApplicationDockerizeProject">Docker Projesi</a></p>
+<li>En net tanımlamayla open source bir ‘container’ teknolojisidir. Aynı işletim sistemi üzerinde, yüzlerce hatta binlerce birbirinden izole ve bağımsız containerlar sayesinde sanallaştırma sağlayan bir teknolojidir. </li>
+</br>
+
+<p><b>MicroService</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/Microservices/MicroservicesEcommerce">Microservice Projesi</a></p>
+<li>Küçük parçalara ayrılmış, internet aracılığıyla birbirleriyle haberleşerek çalışan yazılımcıklardır.</li>
