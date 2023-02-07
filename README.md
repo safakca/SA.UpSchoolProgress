@@ -23,3 +23,7 @@
 
 <p><b>Template Pattern</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/TemplatePattern">Template Pattern Design Projesi</a> </p>
 <li>Bir algoritmanın adımlarını tanımlamayı sağlar ve alt sınıfların bir veya daha fazla adımların implementasyonunu yapmasını olanak tanır.</li>
+</br>
+
+<p><b>SignalR</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/TemplatePattern">SignalR Projesi</a> </p>
+<li>Gerçek zamanlı uygulamalar geliştirmek için yazılmış açık kaynak kodlu bir . NET kütüphanedir.</li>
