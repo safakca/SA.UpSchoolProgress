@@ -11,8 +11,8 @@
 </br>
 
 <p><b>N-tier Architecture, Repository Pattern, IoC or DI Container, Identity</b> ➡️ <a href="https://github.com/safakca/UpSchoolProgress/tree/main/LessonProjects/CRM"> CRM Projesi</a> </p>
-<li> N-tier Architecture : Bir uygulamayı mantıksal katmanlara ve fiziksel katmanlara ayırır. Katmanlar sorumlulukların ayrılması ve bağımlılıkların yönetilmesi için kullanılan bir yöntemdir.</li>
-<li> Repository Pattern : Amacı veri işlem ve sorgulamaların tekrarlardan kaçınılarak merkezi bir yapıya çekilmesidir.</li>
+<li> N-tier Architecture ⟹ Bir uygulamayı mantıksal katmanlara ve fiziksel katmanlara ayırır. Katmanlar sorumlulukların ayrılması ve bağımlılıkların yönetilmesi için kullanılan bir yöntemdir.</li>
+<li> Repository Pattern ⟹ Amacı veri işlem ve sorgulamaların tekrarlardan kaçınılarak merkezi bir yapıya çekilmesidir.</li>
 <li> IoC (Inversion of Control) ⟹ DI(Dependency Inversion) Container olarakda bilinen bir yazılım tasarım prensibidir. Amacı uygulama içerisindeki obje instance'larının yönetimini sağlarayak, bağımlılıklarını en aza indirgemektir. </li>
 </br>
 
