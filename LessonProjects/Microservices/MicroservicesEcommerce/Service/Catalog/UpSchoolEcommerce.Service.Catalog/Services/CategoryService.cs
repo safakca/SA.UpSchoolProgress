@@ -19,18 +19,29 @@ public class CategoryService : ICategoryService
         _mapper = mapper;
     }
 
-    public Task<ResponseDto<CategoryDto>> CreateAsync(CategoryDto categoryDto)
+    public async Task<ResponseDto<CategoryDto>> CreateAsync(CategoryDto categoryDto)
     {
-        throw new NotImplementedException();
+        var category = _mapper.Map<Category>(categoryDto);
+        await _categoryCollection.InsertOneAsync(category);
+        return ResponseDto<CategoryDto>.Success(_mapper.Map<CategoryDto>(category), 200);
     }
 
-    public Task<ResponseDto<List<CategoryDto>>> GetAllAsync()
+    public async Task<ResponseDto<List<CategoryDto>>> GetAllAsync()
     {
-        throw new NotImplementedException();
+        var categories = await _categoryCollection.Find(categories => true).ToListAsync();
+        return ResponseDto<List<CategoryDto>>.Success(_mapper.Map<List<CategoryDto>>(categories), 200);
     }
 
-    public Task<ResponseDto<CategoryDto>> GetByIdAsync(string id)
+    public async Task<ResponseDto<CategoryDto>> GetAsync(string id)
     {
-        throw new NotImplementedException();
+        var category = await _categoryCollection.Find<Category>(x => x.Id == id).FirstOrDefaultAsync();
+        if (category == null)
+        {
+            return ResponseDto<CategoryDto>.Fail("Kategori Bulunamadı", 400);
+        }
+        else
+        {
+            return ResponseDto<CategoryDto>.Success(_mapper.Map<CategoryDto>(category), 200);
+        }
     }
 }

@@ -4,9 +4,9 @@ using UpSchoolEcommerce.Shared.Dtos;
 namespace UpSchoolEcommerce.Service.Catalog.Services;
 public interface IProductService
 {
-    Task<ResponseDto<ProductDto>> GetAllAsync();
-    Task<ResponseDto<ProductDto>> GetByAsync(string id);
-    Task<ResponseDto<ProductDto>>CreateAsync(ProductDto productDto);
+    Task<ResponseDto<List<ProductDto>>> GetAllAsync();
+    Task<ResponseDto<ProductDto>> GetAsync(string id);
+    Task<ResponseDto<ProductDto>> CreateAsync(CreateProductDto productDto);
     Task<ResponseDto<NoContent>> UpdateAsync(UpdateProductDto updateProductDto);
-    Task<ResponseDto<NoContent>> DeleteAsync(string id);
+    Task<ResponseDto<NoContent>> RemoveAsync(string id);
 }
