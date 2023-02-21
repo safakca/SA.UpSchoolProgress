@@ -23,6 +23,9 @@ public class ProductsController : CustomBaseController
     [HttpPost("create")]
     public async Task<IActionResult> Create(CreateProductDto dto) => CreateActionResultInstance(await _productService.CreateAsync(dto));
 
- 
+    [HttpPut("update")]
+    public async Task<IActionResult> Update(UpdateProductDto dto) => CreateActionResultInstance(await _productService.UpdateAsync(dto));
 
+    [HttpDelete("remove/{id}")]
+    public async Task<IActionResult> Remove(string id) => CreateActionResultInstance(await _productService.RemoveAsync(id));
 }

@@ -3,9 +3,9 @@ using UpSchoolEcommerce.Service.Catalog.Dtos;
 using UpSchoolEcommerce.Service.Catalog.Models;
 
 namespace UpSchoolEcommerce.Service.Catalog.Mapping;
-public class MapProfile : Profile
+public class MappingProfile : Profile
 {
-    public MapProfile()
+    public MappingProfile()
     {
         CreateMap<Category, CategoryDto>().ReverseMap();
 
