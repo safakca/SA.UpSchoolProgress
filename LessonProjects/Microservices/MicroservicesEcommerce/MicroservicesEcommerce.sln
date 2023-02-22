@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{41
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{A17E22B7-D159-4F1A-A99A-5F65D6FFE528}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpSchoolEcommerce.Service.Catalog", "Service\Catalog\UpSchoolEcommerce.Service.Catalog\UpSchoolEcommerce.Service.Catalog.csproj", "{D8C6C957-9EA6-4B12-99DF-A70A5EDF103A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpSchoolEcommerce.Service.Catalog", "Service\Catalog\UpSchoolEcommerce.Service.Catalog\UpSchoolEcommerce.Service.Catalog.csproj", "{D8C6C957-9EA6-4B12-99DF-A70A5EDF103A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{818249D7-C458-47A4-A6A8-FF29298C7AB2}"
 	ProjectSection(SolutionItems) = preProject
@@ -17,7 +17,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{0BCB4A1D-F9AC-44C4-8BF9-2E0F3C1A5C13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpSchoolEcommerce.Shared", "Shared\UpSchoolEcommerce.Shared\UpSchoolEcommerce.Shared.csproj", "{AA99B20C-EF47-471E-85C4-C5BC84C27BEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpSchoolEcommerce.Shared", "Shared\UpSchoolEcommerce.Shared\UpSchoolEcommerce.Shared.csproj", "{AA99B20C-EF47-471E-85C4-C5BC84C27BEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{D8F0B6BB-5D7D-46AE-87EC-89507E0CE9CE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UpSchoolEcommerce.IdentityServer", "IdentityServer\UpSchoolEcommerce.IdentityServer\UpSchoolEcommerce.IdentityServer.csproj", "{ADF36B09-D13F-4CD0-B0F6-6F59386293A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,10 @@ Global
 		{AA99B20C-EF47-471E-85C4-C5BC84C27BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA99B20C-EF47-471E-85C4-C5BC84C27BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA99B20C-EF47-471E-85C4-C5BC84C27BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF36B09-D13F-4CD0-B0F6-6F59386293A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF36B09-D13F-4CD0-B0F6-6F59386293A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF36B09-D13F-4CD0-B0F6-6F59386293A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF36B09-D13F-4CD0-B0F6-6F59386293A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{A17E22B7-D159-4F1A-A99A-5F65D6FFE528} = {41DF5450-5383-43C2-94CB-D227EB1A92C0}
 		{D8C6C957-9EA6-4B12-99DF-A70A5EDF103A} = {A17E22B7-D159-4F1A-A99A-5F65D6FFE528}
 		{AA99B20C-EF47-471E-85C4-C5BC84C27BEE} = {0BCB4A1D-F9AC-44C4-8BF9-2E0F3C1A5C13}
+		{ADF36B09-D13F-4CD0-B0F6-6F59386293A8} = {D8F0B6BB-5D7D-46AE-87EC-89507E0CE9CE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {02F00098-CE41-47DD-8D71-9D5891913B88}
