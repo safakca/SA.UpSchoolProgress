@@ -2,7 +2,6 @@
 using UpSchoolEcommerce.Service.Catalog.Dtos;
 using UpSchoolEcommerce.Service.Catalog.Services;
 using UpSchoolEcommerce.Shared.ContollerBase;
-using ZstdSharp.Unsafe;
 
 namespace UpSchoolEcommerce.Service.Catalog.Controllers;
 

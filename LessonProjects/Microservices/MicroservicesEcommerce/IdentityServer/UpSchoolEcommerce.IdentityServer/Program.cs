@@ -63,7 +63,7 @@ namespace UpSchoolEcommerce.IdentityServer
                             Email = "safakca@gmail.com",
                             City = "Istanbul",
 
-                        }, "12345"   
+                        }, password: "12345"
                         ).Wait();
                     }
                 }
